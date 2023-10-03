@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_aspect_passive">#646464</color>
+    <color name="color_aspect_active">#3A98FA</color>
+    <color name="color_aspect_social_passive">#2B2B2B</color>
+    <color name="color_aspect_social_active">#ffffff</color>
+    <color name="colorCropToolbar">#1C1C1E</color>
+
+    <color name="colorCropAlpha">#AB1C1C1E</color>
+    <color name="colorCropBackground">#1C1C1E</color>
+
+    <color name="colorSizeButtonUnselected">#303033</color>
+
+    ,
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#329AFF</color>
+    <color name="orange">#FFC107</color>
+</resources>
